@@ -1,0 +1,267 @@
+body {
+  padding-top: 50px;   
+  font-size: 1.4em;
+   font-family:Signika;
+   font-weight: 200;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 80px;
+  background-color:#EEE8DA;
+  border-top: 2px solid #CCC;
+}
+
+
+.navbar-nav {
+    float: right;
+    
+   
+}
+
+.bg-info {
+background-color: #7badb6 !important;
+}
+
+.ImageBorder {
+	border-width: 5px;
+	border-color: Blue;
+}
+
+@media screen and (max-width: 767px) {
+.navbar-nav {
+    float: left;
+}
+
+}
+
+.text-center {
+text-align:center;
+}
+
+.leftmarg {
+margin-left: 20%;
+margin-bottom: 10%;
+}
+
+
+.footer {
+ text-align: center;    
+ font-weight: 200;
+ width: 100%;
+ background-color: #ECEDE9!important;
+   
+    
+}
+
+.small-footer {
+     text-align: center;
+    font-size: 1em;
+    font-weight: 200;
+	width: 100%;
+   background-color: #ECEDE9!important;
+   
+    
+}
+
+
+.row {
+    padding-left: 10px;
+    padding-bottom: 5px;
+}
+
+
+.text-left
+{
+    text-align: left !important;
+}
+
+.navbar-inverse {
+    background-image: none;
+
+    background-color: #ECEDE9;
+	
+    border-bottom-color:#ECEDE9;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: #2E2E2C !important;
+	
+    font-size: 1.65em;
+    font-family: 'Rufina', serif;
+    padding-top: 20px;
+    
+}
+
+
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .open > a {
+background-image:none;
+background-color:white;
+border:none;
+    
+}
+
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .open > a:hover {
+background-image:none;
+background-color:white;
+   border:none; 
+}
+
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .open > a:focus{
+background-image:none;
+background-color:white;
+    border:none;
+}
+
+a:focus {
+outline: none;
+
+    
+}
+
+.nav.navbar-nav {
+
+
+}
+
+.navbar {
+
+margin-bottom: 0px;
+}
+
+
+
+.navbar-toggle {
+background-color: black;
+margin-top: 15px;
+}
+
+.row{
+padding-left: 0px;
+}
+
+.navbar-header {
+    margin-left: -15px !important;
+}
+
+.dropdown-menu > li > a {
+    color: #2E2E2C !important;
+	
+    font-size: 1.65em;
+    font-family: 'Rufina', serif;
+    padding-top: 20px;
+    
+}
+
+
+
+.outsideblue {
+ color: #EDAC1A !important;
+}
+
+ .insideblue {
+ color: #2B3E85 !important;   
+}
+
+.outsideyellow {
+  color: #2B3E85 !important;  
+}
+
+ .insideyellow {
+ color: #EDAC1A !important;   
+}
+
+h1 {    
+    font-family: open sans, arial;   
+	color:#fff;
+}
+
+
+h3 {
+  font-family: open sans, arial;   
+	color:#edac1a;
+}
+
+
+h2 {
+    font-family: Philosopher, Lustria, arial;
+    color: #EDAC1A !important;
+    font-size: 2.5em;
+}
+
+h4 {
+     color:#e37a33 !important;
+    font-family: open sans, arial;
+     font-size: 1.6em;
+    
+}
+
+h5 {
+         color: #EDAC1A !important;
+    font-family: open sans, arial;
+     font-size: 1.3em;    
+}
+
+
+
+p {
+    font-size: 1.4em;
+    font-family: embrya,sans-serif;
+    font-weight: 200;
+}
+
+.blue {
+color: #223FA0;
+}
+
+
+#fbook {
+    padding-bottom: 0px !important;
+    padding-top: 3px !important;
+}
+
+.img-responsive {
+    margin-top: 0px;
+      margin-bottom: 0px;
+}
+
+.float-logo {
+    float: left;
+}
+
+.blue-bg {
+background-color: #2B3E85   !important;
+padding-top: 40px;
+padding-bottom: 40px;
+}
+
+.yellow-bg {
+background-color: #edac1a   !important;
+padding-top: 40px;
+padding-bottom: 40px;
+}
+
+.home-bg {
+background-color: #555f60   !important;
+padding-top: 100px;
+padding-bottom: 150px;
+}
+
+.student-bg {
+background-image: #fff   !important;
+
+
+}
