@@ -58,6 +58,7 @@ margin-bottom: 10%;
 }
 
 
+
 .footer {
  text-align: center;    
  font-weight: 200;
@@ -228,10 +229,10 @@ color: #223FA0;
 }
 
 
-#fbook {
+/*#fbook {
     padding-bottom: 0px !important;
     padding-top: 3px !important;
-}
+}*/
 
 .img-responsive {
     margin-top: 0px;
@@ -244,14 +245,14 @@ color: #223FA0;
 
 .blue-bg {
 background-color: #2B3E85   !important;
-padding-top: 40px;
-padding-bottom: 40px;
+padding-top: 80px;
+padding-bottom: 80px;
 }
 
 .yellow-bg {
 background-color: #edac1a   !important;
-padding-top: 40px;
-padding-bottom: 40px;
+padding-top: 80px;
+padding-bottom: 80px;
 }
 
 .home-bg {
